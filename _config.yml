@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LeiZhou"
+title                    : "Lei Zhou"
 title_separator          : "-"
 name                     : &name "Lei Zhou"
 description              : &description "personal description"
-url                      : https://chenzhou409.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://chenzhou409.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenzhou409/chenzhou409.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   location         : #"Location"
   employer         :
   pubmed           : #""
-  googlescholar    : #""
+  googlescholar    : "https://scholar.google.com/citations?user=oYji8NoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chenzhou409"
+  github           : "zlbuaa"
   google_plus      :
   keybase          :
   instagram        :
