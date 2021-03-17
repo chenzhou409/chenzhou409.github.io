@@ -21,4 +21,4 @@ Education
 
 Interests
 ======
-I like rock music. My favorite band is Mayday. In my free time, I like playing football. I am a fan of Real Madrid. I also like playing Teamfight Tactics for relaxation. Actually, I am a master of Ionia. I am fond of science fiction and suspense films and TVs.
+I like rock music. My favorite band is Mayday. In my free time, I like playing football. I am a fan of Real Madrid. I also like playing Teamfight Tactics for relaxation. I am fond of science fiction and suspense films and TVs.

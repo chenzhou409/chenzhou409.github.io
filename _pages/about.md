@@ -21,6 +21,8 @@ I am currently a Ph.D candidate in School of Computer Science and Engineering, B
 
 [2020.07] One paper for subspace clustering applied on hyperspectral unmixing is accepted by <font color=green>JSTARS</font>.
 
+[2020.02] The paper "Learning binary code for fast nearest subspace search" is accepted by <font color=green>PR</font>.
+
 [2019.09] Obtained the China National Scholarship.
 
 [2019.05] One paper for deep subspace clustering is accepted by <font color=green>IJCAI 2019</font>.
@@ -34,4 +36,4 @@ I am currently a Ph.D candidate in School of Computer Science and Engineering, B
 
 - Reviewer for CVPR 2021, AAAI 2021, BMVC 2020, AAAI 2020, BMVC 2019
 
-- Reviewer for Pattern Recognition, IEEE Transactions on Geoscience and Remote Sensing, Pattern Recognition Letter
+- Reviewer for Pattern Recognition, IEEE Transactions on Geoscience and Remote Sensing, Signal Processing
