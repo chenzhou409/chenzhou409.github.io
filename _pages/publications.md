@@ -7,6 +7,9 @@ author_profile: true
 ---
 **2021**
 
+- **Relation-Aware Reasoning with Graph Convolutional Network.** Lei Zhou, Yang Liu, Xiao Bai, Xiang Wang, Chen Wang, Liang Zhang, Lin Gu.
+ICIG, 2021
+
 - **Goal-Oriented Gaze Estimation for Zero-Shot Learning.** Yang Liu<sup>\*</sup>, Lei Zhou<sup>\*</sup>, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. (* indicates equal contribution)
 CVPR, 2021 [[PDF]](https://arxiv.org/abs/2103.03433) [[Code]](https://github.com/osierboy/GEM-ZSL)
 
