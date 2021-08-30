@@ -18,7 +18,3 @@ Education
 * B.S. in Beihang University, 2012-2016
 * M.S. in Beihang University, 2016-2018
 * Ph.D in Beihang University, 2018-
-
-Interests
-======
-I like rock music. My favorite band is Mayday. In my free time, I like playing football. I am a fan of Real Madrid. I also like playing Teamfight Tactics for relaxation. I am fond of science fiction and suspense films and TVs.
