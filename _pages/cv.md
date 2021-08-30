@@ -11,7 +11,7 @@ redirect_from:
 
 [English CV](http://chenzhou409.github.io/files/CV_LeiZhou_en.pdf)
 
-[中文简历](http://chenzhou409.github.io/files/CV_LeiZhou_zh.pdf)
+[中文简历](http://chenzhou409.github.io/files/CV_LeiZhou_cn.pdf)
 
 Education
 ======
