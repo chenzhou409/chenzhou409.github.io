@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[English CV](http://chenzhou409.github.io/files/CV_LeiZhou_en.pdf)
+<!-- [English CV](http://chenzhou409.github.io/files/CV_LeiZhou_en.pdf)
 
-[中文简历](http://chenzhou409.github.io/files/CV_LeiZhou_cn.pdf)
+[中文简历](http://chenzhou409.github.io/files/CV_LeiZhou_cn.pdf) -->
 
 Education
 ======
